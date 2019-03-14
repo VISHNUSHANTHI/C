@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 int a[10],temp,n,i,j;
 scanf("%d",&n);
@@ -24,5 +24,5 @@ for(i=0;i<n;i++)
 {
 printf("\n%d",a[i]);
 }
-getch();
+return 0;
 }
