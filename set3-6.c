@@ -3,7 +3,6 @@
 void main()
 {
 int a[10],temp,n,i,j;
-printf("Enetr the array size:");
 scanf("%d",&n);
 for(i=0;i<n;i++)
 {
